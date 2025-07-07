@@ -1,0 +1,15 @@
+[package]
+name = "rust_gb_emulator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bincode = "2.0.1"
+chrono = "0.4.41"
+cpal = "0.15.3"
+image = "0.25.6"
+minifb = "0.25"
+rand = "0.9.1"
+serde = "1.0.219"
+tiny-skia = "0.11.4"
+resvg = "0.41.0"
